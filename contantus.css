@@ -1,0 +1,108 @@
+*{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-color: rgb(135, 77, 77);
+}
+.container2{
+    position: relative;
+}
+.container1{
+    margin-top: 130px;
+}
+.card1{
+    border:black;
+    background-color: black;
+    width:290px;
+    height:170px;
+    margin: auto;
+    float: none;
+    margin-bottom: 10px;
+}
+.card1 img{
+    width:80px;
+    padding-top: 10px;
+    margin-left: 100px;
+    padding-bottom: 10px;
+}
+.card1 p{
+    text-align: center;
+}
+.card2{
+    border:black;
+    background-color: black;
+    width:290px;
+    height:170px;
+    margin: auto;
+    float: none;
+    margin-bottom: 10px;
+}
+.card2 img{
+    width:100px;
+    padding-top: 10px;
+    margin-left: 90px;
+    padding-bottom: 10px;
+}
+.card2 p{
+    text-align: center;
+}
+.card3{
+    border:black;
+    background-color: black;
+    width:290px;
+    height:170px;
+    margin: auto;
+    float: none;
+    margin-bottom: 10px;
+}
+.card3 .img10{
+    
+        width:100px;
+        padding-top: 10px;
+        margin-left: 90px;
+}
+.card3 .img11{
+    width:50px;
+    margin-left: 40px;
+}
+.card3 .img12{
+    width:100px;
+
+}
+.card3 .img13{
+    width:50px;
+
+}
+form{
+    left:50%;
+    transform: translate(-50%);
+    margin-top: 30px;
+    position: absolute;
+}
+
+legend{
+    font-size: 30px;
+}
+label{
+    font-size: larger;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.name{
+    width:340px;
+    height:60px;
+    background-color: rgb(111, 54, 54);
+}
+.message{
+    width:340px;
+    height:60px;
+    background-color: rgb(111, 54, 54);
+}
+.send{
+    background-color: rgb(64, 17, 17);
+    padding: 10px 20px;
+}

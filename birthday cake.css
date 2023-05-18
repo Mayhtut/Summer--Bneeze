@@ -1,0 +1,100 @@
+.intro-text{
+    position: absolute;
+    text-align: center;
+    top:60%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.intro-text h1{
+    font-size: 50px;
+    color: aliceblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.intro-text p{
+    font-size: 25px;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.intro-text button{
+    width:400px;
+    height:60px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: rgba(107, 33, 18, 0.679);
+    color:aliceblue;
+    font-size: 30px;
+    padding-bottom: 10px;
+    align-content: center;
+}
+.intro-text button:hover{
+     background-color: black;
+}
+[class*="col-lg-6 seconddiv"]{
+    border: 2px groove rgb(70, 13, 13);
+    background-color: rgb(56, 9, 9);
+    border-radius: 10px;
+    margin-top: 70px;
+    height: 220px;
+}     
+
+header{
+    background-image: url(Images/cake3.webp);
+    height:350px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.intro-text{
+    position: absolute;
+    text-align: center;
+    top:60%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:azure;
+}
+p{
+    font-size: 18px;
+    }
+    .card5{
+        background-color:darkred;
+    }
+    .card5 .image{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 15px;
+        margin-top: 15px;
+    }
+    .card5 img{
+        width:100%;           
+        border-top-left-radius:10px;
+        border-top-right-radius:10px;
+    }
+    .container img{
+        transition:width 2s, height 2s;
+        width:200px; height:180px;
+        border-radius:20%;
+    }
+   
+     .card5 h2{
+        color:rgb(239, 242, 243);
+      }  
+     
+      p{
+        color:rgb(240, 240, 240);
+      }
+     .card7{
+        margin-top:20px;
+     }
+
+.card5 h2 a{
+    text-decoration: none;
+    color: rgb(252, 247, 247);
+ }
+ .card5 h2 a:hover{
+    color:rgba(136, 33, 33, 0.464);
+ }
